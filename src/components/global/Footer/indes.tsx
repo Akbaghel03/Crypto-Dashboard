@@ -7,24 +7,24 @@ export default function Footer() {
       <p className="text-sm">Follow us on:</p>
       <div className="flex gap-4">
         <a
-          href="https://github.com/HarshYadv5554/"
+          href="https://github.com/Akbaghel03"
           target="_blank"
           rel="noreferrer"
-          aria-label="HarshYadv5554 on GitHub"
+          aria-label="Akbaghel03 on GitHub"
         >
           <Github className="h-5 w-5 stroke-[0.75]" />
         </a>
         <a
-          href="https://www.linkedin.com/in/harsh-yadav5554/"
+          href="http://www.linkedin.com/in/ashwani-baghel-028823259"
           target="_blank"
           rel="noreferrer"
-          aria-label="HarshYadv5554 on LinkedIn"
+          aria-label="Ashwani_Baghel on LinkedIn"
         >
           <Linkedin className="h-5 w-5 stroke-[0.75]" />
         </a>
       </div>
       <a
-        href="https://github.com/HarshYadv5554/"
+        href="https://ashwani-portfolio03.netlify.app/"
         target="_blank"
         rel="noreferrer"
         aria-label="Visit my Portfolio"
@@ -32,7 +32,7 @@ export default function Footer() {
       >
         {"</>"} with 💛 by{" "}
         <span className="font-semibold transition-all ease-in-out group-hover:text-blue-500 decoration-wavy decoration-1 group-hover:underline underline-offset-[6px]">
-          Harsh Yadav
+          Ashwani Baghel
         </span>
       </a>
     </footer>
