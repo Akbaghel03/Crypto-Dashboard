@@ -172,7 +172,7 @@ const HeaderLinkOptions = [
     label: "Ethereum",
   },
   {
-    href: "https://github.com/HarshYadv5554/",
+    href: "https://github.com/Akbaghel03",
     label: "GitHub",
   },
 ];
